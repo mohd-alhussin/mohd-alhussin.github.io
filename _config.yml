@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammed Alhussein"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " Data Scientist."
   location         : "Sharjah, UAE"
   email            :
